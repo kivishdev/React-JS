@@ -18,10 +18,3 @@ body {
 body {
   background-color: black;
 }
-
-.card {
-  margin: 3pc;
-  padding: 10px;
-  text-align: center;
-  background-color: rgba(227, 16, 16, 0.406);
-}
