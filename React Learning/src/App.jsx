@@ -2,6 +2,7 @@ import React from "react";
 import Card  from "./components/01_JSX/card";
 import Navbar from "./components/01_JSX/Navbar";
 import Profilename from "./components/props/profilename.jsx";
+import Event from "./components/Event Listener/Event.jsx";
 
 function ReactApp() {
   return (
@@ -13,6 +14,7 @@ function ReactApp() {
       <Profilename user="Naamu" age= {18}/>
       <Profilename user="Naman" age= {21}/>
    </div> 
+      <Event />
   </>
   );
 }
