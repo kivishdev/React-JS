@@ -1,0 +1,12 @@
+/**
+ * Hooks in React - React ke andar functions hote hain jo state aur lifecycle features ko
+ * functional components mein use karne dete hain. useState, useEffect, useContext jaise hooks
+ * se hum component ke behavior ko manage kar sakte hain. Hooks se code reusable aur samajhne
+ * mein asan ban jata hai. Ye sirf functional components mein hi kaam karte hain.
+ */
+
+/* Hooks in React:
+useState : Ek aisa hook jo state manage krta hai. Ye 2 state k beech me management krtaa hai. Ye vo hook hai jo component me state add krta hai.
+
+State(Memory): State ek memory jaisaa hai. Jo ek data/variable jaisa haii jo component yaad rakhta hai. Jaise let x = 10 hai ye function/variable chalte hi vo reset ho jaata hai to state yahi data yaad rakhta hai.
+*/
