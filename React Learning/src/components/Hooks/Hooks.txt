@@ -10,3 +10,25 @@ useState : Ek aisa hook jo state manage krta hai. Ye 2 state k beech me manageme
 
 State(Memory): State ek memory jaisaa hai. Jo ek data/variable jaisa haii jo component yaad rakhta hai. Jaise let x = 10 hai ye function/variable chalte hi vo reset ho jaata hai to state yahi data yaad rakhta hai.
 */
+
+*/ 
+useEffect: Ye hook side effects handle krtaa hai. Jaise Api se Data Fetching and DOM manipulation.
+/*
+
+*/ 
+useRef: Ye element ka reference deta hai. and usko select karne pe uska reference deta hai and manipulate krtaa hai.And screen pe aise values store krna jo change to ho but re-render na kree.
+/*
+
+*/
+useContext: Ye global data share krne me madat krtaa haii. Aisa data jo saare components me share kr paaye. Ye ContextAPI kaam me leta hai. 
+/*
+
+*/
+useReducer: Ye complex state logic ko manage krta hai.
+/*
+
+*/ 
+useCallback: Ye function ko memoize krta hai. Jo function ko baar baar create hone se bachata hai.
+useMemo: Ye value ko memoize krta hai. Jo value ko baar baar calculate hone se bachata hai.
+Dono optimization ke liye use hote hain.
+/*
